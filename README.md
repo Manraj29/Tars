@@ -2,16 +2,12 @@
 
 Tars is a **voice-activated AI assistant** that listens for the wake word **"Hey Tars"**, responds to queries, opens applications, and searches the web. It uses **Google Gemini API** for AI responses and supports **real-time interruption** while speaking.
 
----
-
 ## 🚀 Features  
 ✅ **Wake Word Detection** → Always listening for "Hey Weekend"  
 ✅ **AI-Powered Answers** → Uses **Google Gemini API** (Short & Concise)  
 ✅ **Open Applications** → Chrome, Notepad, Calculator, Spotify (Customizable)  
 ✅ **Search the Web** → Instantly Google search queries  
 ✅ **Error Handling** → Automatically returns to wake-word listening  
-
----
 
 ## 📌 Installation  
 1. **Clone the Repository**
