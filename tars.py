@@ -6,7 +6,7 @@ import os
 import webbrowser
 
 # Configure Gemini API
-GEMINI_API_KEY = "AIzaSyCWFqIFVj1MpHJ1B9d8UzaMm_hBvHVnZn8"
+GEMINI_API_KEY = "your_api_key"
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Initialize Text-to-Speech
