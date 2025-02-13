@@ -17,15 +17,26 @@ Tars is a **voice-activated AI assistant** that listens for the wake word **"Hey
 3. **Set Up Google Gemini API Key**
      ```GEMINI_API_KEY = "your_api_key_here"```
 4. **Run the python script**
-     ```python tars.py```
+     ```python tars.py```,
+**if streamlit** ```streamlit run tarslit.py```
 
-
-## 🛠️ Usage
+## 🛠️ Usage 
+### * for cmd app
 Run the script, 
 Then, say "Hey Tars" and:
 - "Open Chrome" → Opens Google Chrome
 - "Search for Python tutorials" → Opens Google search
 - "Who is Elon Musk?" → Gets AI-generated response
+
+### * for streamlit app
+Run the streamlit app,
+Then Interact with Tars through:
+1. Voice Commands: Say "Hey Tars" to activate, then:
+ - "Open Notepad"
+ - "Search for the latest tech news"
+ - "What is the weather like today?"
+ - "Tell me a joke"
+2. Text Commands: Type directly into the text box and click Send Command.
 
 ## 📜 Requirements
 1. Python 3.7+
