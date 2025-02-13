@@ -3,7 +3,7 @@
 Tars is a **voice-activated AI assistant** that listens for the wake word **"Hey Tars"**, responds to queries, opens applications, and searches the web. It uses **Google Gemini API** for AI responses and supports **real-time interruption** while speaking.
 
 ## 🚀 Features  
-✅ **Wake Word Detection** → Always listening for "Hey Weekend"  
+✅ **Wake Word Detection** → Always listening for "Hey Tars" on both cmd & streamlit app 
 ✅ **AI-Powered Answers** → Uses **Google Gemini API** (Short & Concise)  
 ✅ **Open Applications** → Chrome, Notepad, Calculator, Spotify (Customizable)  
 ✅ **Search the Web** → Instantly Google search queries  
@@ -45,3 +45,10 @@ Then Interact with Tars through:
 4. pyttsx3 (for text-to-speech)
 5. pyaudio (for microphone input)
 6. webbrowser (for Google search)
+
+## 📸 Screenshots of streamlit UI
+|<img src="https://github.com/user-attachments/assets/13a53159-7a90-4577-8474-60ea3ec7e5f2" width="500px"/> Home page |  <img src="https://github.com/user-attachments/assets/ab070880-999f-4e7d-831a-345faadf15ff" width="500px"/> Voice Command|
+|-------------|------------|
+|<img src="https://github.com/user-attachments/assets/488dfcba-76a0-4079-8530-cb0111ba6102" width="500px"/> Prompt Command | <img src="https://github.com/user-attachments/assets/f15cab0d-8d70-43ca-9552-9f655b5e7b87" width="500px"/> Command Implementation |
+
+
